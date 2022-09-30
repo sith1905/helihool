@@ -39,7 +39,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "name": "Helihool",
+    "name": "Helihool Music",
     "versionFirst": "5.6.8",
     "siteFonts": [
       {
@@ -67,8 +67,8 @@
       }
     ],
     "imageResize": true,
-    "favicon": false,
-    "mbrsiteDomain": "cx4pj4zer8",
+    "favicon": "@PROJECT_PATH@/assets/images/hh-logo-128x85.png",
+    "mbrsiteDomain": "ja7j71funz",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
