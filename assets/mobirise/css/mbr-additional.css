@@ -749,19 +749,25 @@ a {
 .cid-tiTLdVxdL6 .item-wrapper {
   position: relative;
   border-radius: 4px;
-  background: #fafafa;
+  background: #ffffff;
   height: 100%;
   display: flex;
   flex-flow: column nowrap;
 }
 @media (min-width: 992px) {
   .cid-tiTLdVxdL6 .item-wrapper .item-content {
-    padding: 2rem;
+    padding: 2rem 2rem 0;
+  }
+  .cid-tiTLdVxdL6 .item-wrapper .item-footer {
+    padding: 0 2rem 2rem;
   }
 }
 @media (max-width: 991px) {
   .cid-tiTLdVxdL6 .item-wrapper .item-content {
-    padding: 1rem;
+    padding: 1rem 1rem 0;
+  }
+  .cid-tiTLdVxdL6 .item-wrapper .item-footer {
+    padding: 0 1rem 1rem;
   }
 }
 .cid-tiTLdVxdL6 .mbr-section-btn {
@@ -791,6 +797,66 @@ a {
   fill: #777;
   margin-top: 2rem;
   margin-bottom: 3rem;
+}
+.cid-tiTUl6q80N {
+  padding-top: 2rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-tiTUMg81Q8 {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-tiTUMg81Q8 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tiTUMg81Q8 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tiTUMg81Q8 .video-wrapper iframe {
+  width: 100%;
+}
+.cid-tiTUMg81Q8 .mbr-section-title,
+.cid-tiTUMg81Q8 .mbr-section-subtitle,
+.cid-tiTUMg81Q8 .mbr-text {
+  text-align: center;
+}
+.cid-tiTVuJPaQ2 {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-tiTVJX78mY {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-tiTVJX78mY .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tiTVJX78mY .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tiTVJX78mY .video-wrapper iframe {
+  width: 100%;
+}
+.cid-tiTVJX78mY .mbr-section-title,
+.cid-tiTVJX78mY .mbr-section-subtitle,
+.cid-tiTVJX78mY .mbr-text {
+  text-align: center;
 }
 .cid-t9tmnxvYEu {
   padding-top: 1rem;
